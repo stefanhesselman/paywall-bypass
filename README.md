@@ -28,6 +28,9 @@ Paywalled content must still be crawled by web crawlers, and indexed by search e
 4. You now have access to paywalled content.
 
 ## Proof-of-concept
-A python script written in Python 3.6 is included in this repository. The python script automates the process of searching for the cache of paywalled content and returns the cache URLs.
+A python script written in Python 3.6 is included in this repository. The python script automates the process of searching for the cache of paywalled content and returns the cache URLs. It uses the website archive.is for this purpose.
 
 ![Executing the proof-of-concept script](https://github.com/stefanhesselman/paywall-bypass/blob/main/poc.gif?raw=true)
+
+## Note
+No websites were attacked and no vulnerabilities were exploited in making this script. It merely shows how paywalls can be circumvented via legitimate resources.
