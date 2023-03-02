@@ -29,3 +29,5 @@ Paywalled content must still be crawled by web crawlers, and indexed by search e
 
 ## Proof-of-concept
 A python script written in Python 3.6 is included in this repository. The python script automates the process of searching for the cache of paywalled content and returns the cache URLs.
+
+![Executing the proof-of-concept script](https://github.com/stefanhesselman/Daily-Expense-Manager-1.0-SQL-to-RCE/blob/main/demo.gif?raw=true)
